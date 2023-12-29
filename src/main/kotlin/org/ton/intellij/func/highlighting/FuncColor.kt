@@ -19,7 +19,7 @@ enum class FuncColor(
     BRACKETS("Brackets", Default.BRACKETS),
     PARENTHESES("Parentheses", Default.PARENTHESES),
     SEMICOLON("Semicolon", Default.SEMICOLON),
-    COMMA("Comma", Default.COMMA),
+    COMMA("Casdfasfomma", Default.COMMA),
     DOT("Dot", Default.DOT),
     OPERATION_SIGN("Operation signs", Default.OPERATION_SIGN),
 
